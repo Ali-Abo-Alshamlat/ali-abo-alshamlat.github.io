@@ -35,6 +35,7 @@ jobs:
       - name: Building 🧱
         run: npm run build
         env:
+          NEXT_PUBLIC_TRACKING_ID: UA-238870718-1
           NEXT_PUBLIC_SERVICE_ID: service_qo7jtog
           NEXT_PUBLIC_TEMPLATE_ID: template_884mtzv
       
