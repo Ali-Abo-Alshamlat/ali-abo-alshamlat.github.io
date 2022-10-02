@@ -166,7 +166,7 @@ export class Nmap extends Component {
         'SEE THE MAN PAGE (https://nmap.org/book/man.html) FOR MORE OPTIONS AND EXAMPLES
 
   </pre> </div>
-
+             <iframe src="https://nmap.online/" frameBorder="0" className="h-full w-full"></iframe>
                     </div>
                
             </React.Fragment>
