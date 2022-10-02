@@ -165,10 +165,11 @@ export class Nmap extends Component {
         '  nmap -v -iR 10000 -Pn -p 80                                              <br/>
         'SEE THE MAN PAGE (https://nmap.org/book/man.html) FOR MORE OPTIONS AND EXAMPLES
 
-  </pre> </div>
-             </div>
-                <iframe src="https://nmap.online/" frameBorder="0" className="h-full w-full"></iframe>
-            </React.Fragment>
+  </pre> 
+   <iframe src="https://nmap.online/" frameBorder="0" className="h-full w-full"></iframe>
+    </div>
+      </div>
+        </React.Fragment>
         );
         }
 
