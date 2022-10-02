@@ -28,7 +28,7 @@ export default function Meta() {
             /* Open Graph general (Facebook, Pinterest & Google+) */
             <meta name="og:title" content="Ali Abo Alshamlat Portfolio" />
             <meta name="og:description"
-                content="Ali Abo Alshamlat Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
+                content="Ali Abo Alshamlat Personal Portfolio Website. Made with Kali (Linux) theme by Next.js and Tailwind CSS." />
             <meta name="og:image" content="images/logos/logo_1.png" />
             <meta name="og:url" content="http://ali-abo-alshamlat.github.io/" />
             <meta name="og:site_name" content="Ali Abo Alshamlat Personal Portfolio" />
