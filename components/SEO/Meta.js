@@ -16,7 +16,7 @@ export default function Meta() {
             <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
             <meta name="language" content="English" />
             <meta name="viewport" content="width=device-width, initial-scale=1" />
-            <meta name="theme-color" content="#E95420" />
+            <meta name="theme-color" content="#2063e9" />
 
             /* Search Engine */
             <meta name="image" content="images/logos/pic-1.png" />
