@@ -332,6 +332,6 @@ function Projects() {
 }
 function Resume() {
     return (
-        <iframe className="h-full w-full" src="./files/ali-abo-alshamlat-Resume.pdf" title="ali resume" frameBorder="0"></iframe>
+        <iframe className="h-full w-full" src="./files/Ali-Abo-Alshamlat-Network-Engineer.pdf" title="ali resume" frameBorder="0"></iframe>
     )
 }
