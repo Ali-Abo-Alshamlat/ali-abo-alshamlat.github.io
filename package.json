@@ -13,29 +13,29 @@
     
   },
   "dependencies": {
-    "@react-pdf-viewer/core": "^3.1.0",
-    "@react-pdf-viewer/default-layout": "^3.1.0",
-    "axios": "^0.27.2",
-    "disqus-react": "^1.1.3",
+    "@react-pdf-viewer/core": "^3.12.0",
+    "@react-pdf-viewer/default-layout": "^3.12.0",
+    "axios": "^1.4.0",
+    "disqus-react": "^1.1.5",
     "draft-js": "0.11.7",
     "draftjs-to-html": "^0.9.1",
     "emailjs-com": "^3.2.0",
     "expr-eval": "^2.0.2",
-    "jquery": "^3.6.0",
+    "jquery": "^3.7.0",
     "next": "latest",
-    "pdfjs-dist": "2.9.359",
+    "pdfjs-dist": "3.9.179",
     "react": "latest",
-    "react-draft-wysiwyg": "^1.14.7",
-    "react-draggable": "^4.4.4",
-    "react-ga": "3.3.0",
-    "react-onclickoutside": "^6.11.2",
-    "react-player": "^1.15.2",
-    "typewriter-effect": "^2.18.2"
+    "react-draft-wysiwyg": "^1.15.0",
+    "react-draggable": "^4.4.5",
+    "react-ga": "3.3.1",
+    "react-onclickoutside": "^6.13.0",
+    "react-player": "^2.12.0",
+    "typewriter-effect": "^2.20.1"
   },
   "devDependencies": {
-    "autoprefixer": "^10.2.6",
-    "gh-pages": "^4.0.0",
-    "postcss": "^8.3.5",
-    "tailwindcss": "^2.2.4"
+    "autoprefixer": "^10.4.14",
+    "gh-pages": "^5.0.0",
+    "postcss": "^8.4.27",
+    "tailwindcss": "^3.3.3"
   }
 }
