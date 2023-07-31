@@ -25,6 +25,8 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
           cache: "npm"
+      - name: Update
+        run: npx npm-check-updates
       - name: Installing Packages 🥁
         run: npm i
       - name: Installing react-dom
