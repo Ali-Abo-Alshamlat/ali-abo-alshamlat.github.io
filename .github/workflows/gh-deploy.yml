@@ -29,6 +29,8 @@ jobs:
         run: npx npm-check-updates
       - name: Installing Packages 🥁
         run: npm i
+      - name: Clean Cashe
+        run: npm cache clean --force
       - name: Installing react-dom
         run: npm install react-dom
       - name: draft
