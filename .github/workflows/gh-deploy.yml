@@ -27,6 +27,8 @@ jobs:
           cache: "npm"
       - name: Update
         run: npx npm-check-updates
+      - name: Upgrade
+        run: ncu -u
       - name: Installing Packages 🥁
         run: npm i
       - name: Installing react-dom
