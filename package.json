@@ -22,7 +22,7 @@
     "emailjs-com": "^3.2.0",
     "expr-eval": "^2.0.2",
     "jquery": "^3.7.0",
-    "next": "latest",
+    "next": "18.1.0",
     "pdfjs-dist": "3.9.179",
     "react": "latest",
     "react-draft-wysiwyg": "^1.15.0",
