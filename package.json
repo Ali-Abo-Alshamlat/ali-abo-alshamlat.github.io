@@ -24,7 +24,7 @@
     "jquery": "^3.7.0",
     "next": "^18.1.0",
     "pdfjs-dist": "^3.9.179",
-    "react": "^17.0.2",
+    "react": "^18.2.0",
     "react-draft-wysiwyg": "^1.15.0",
     "react-draggable": "^4.4.5",
     "react-ga": "^3.3.1",
