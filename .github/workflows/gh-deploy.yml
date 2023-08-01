@@ -25,10 +25,6 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
           cache: "npm"
-      - name: clean
-        run: npm cache clean --force
-      - name: legacy
-        run: npm install --legacy-peer-deps
       - name: Installing Packages 🥁
         run: npm i
       - name: Installing react-dom
