@@ -48,7 +48,6 @@ export function AllApps(props) {
     return (
         <div
             className={`w-10 h-10 rounded m-1 hover:bg-white hover:bg-opacity-10 flex items-center justify-center`}
-            style={{ marginTop: 'auto' }}
             onMouseEnter={() => {
                 setTitle(true);
             }}
